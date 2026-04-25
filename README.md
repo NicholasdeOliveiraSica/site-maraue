@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt Starter Template
 
 [![Nuxt UI](https://img.shields.io/badge/Made%20with-Nuxt%20UI-00DC82?logo=nuxt&labelColor=020420)](https://ui.nuxt.com)
@@ -62,3 +63,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ## Renovate integration
 
 Install [Renovate GitHub app](https://github.com/apps/renovate/installations/select_target) on your repository and you are good to go.
+=======
+# site-maraue
+Refazendo um site porem com nuxt.js
+>>>>>>> c3b4c64f75c90035a9245494476ddf5781ed5179
